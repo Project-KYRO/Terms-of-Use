@@ -2,7 +2,7 @@
 
 > **Language / 언어** — This document is available in Korean and English. The English version is a convenience translation; in case of any discrepancy, **the Korean version prevails**. / 본 약관은 한국어와 영어로 제공됩니다. 영문본은 이해를 돕기 위한 번역이며, 해석상 차이가 있는 경우 한국어본이 우선합니다. → [한국어](./README.md)
 
-> **These Terms take effect on 3 September 2026.** Until that date, the [Terms dated 17 May 2026](https://github.com/Project-KYRO/Terms-of-Use/blob/main/archive/terms-2026-05-17.ko.md) (Korean) continue to apply. This amendment introduces the provisions governing the paid service (KYRO PRO). See the [Revision History](#revision-history) for details.
+> **These Terms take effect on 14 August 2026.** Until that date, the [Terms dated 17 May 2026](https://github.com/Project-KYRO/Terms-of-Use/blob/main/archive/terms-2026-05-17.ko.md) (Korean) continue to apply. This amendment introduces the provisions governing the paid service (KYRO PRO). See the [Revision History](#revision-history) for details.
 
 ### Article 1 (Purpose)
 
@@ -152,9 +152,11 @@ For disputes relating to payment for or refund of the paid service, Users may ap
 
 ### Addendum
 
-(1) These Terms take effect on 3 September 2026.
+(1) These Terms take effect on 14 August 2026.
 
 (2) Until the effective date of this amendment, the [Terms dated 17 May 2026](https://github.com/Project-KYRO/Terms-of-Use/blob/main/archive/terms-2026-05-17.ko.md) continue to apply.
+
+(3) For a User who purchases the paid service before the effective date in paragraph (1), Articles 11 through 15 apply from the time of that purchase. In such a case, the Company discloses the price of the product, its billing cycle, whether it renews automatically, how to cancel, and the withdrawal and refund conditions on the store's payment screen and on the in-app paid-service information screen before payment is made.
 
 ### Revision History
 
@@ -162,4 +164,4 @@ For disputes relating to payment for or refund of the paid service, Users may ap
 |---|---|---|---|
 | v1.0 | — | 15 December 2025 | Initial version |
 | v1.1 | — | 17 May 2026 | Corrected company name (Movement Lab Inc.) and contact address (support@kyro.team); added business registration details |
-| v2.0 | 4 August 2026 | 3 September 2026 | Added the provisions governing the paid service (KYRO PRO): Article 11 (Paid Service), Article 12 (Automatic Renewal, Free Trials, and Cancellation), Article 13 (Withdrawal of Subscription and Refunds), Article 14 (Complimentary Entitlements and Promotions), Article 15 (Change and Discontinuation of the Paid Service); updated the service description in Article 4; added consumer and content dispute mediation routes to Article 17; published an English version; renumbered former Articles 11–13 as Articles 16–18 |
+| v2.0 | 4 August 2026 | 14 August 2026 | Added the provisions governing the paid service (KYRO PRO): Article 11 (Paid Service), Article 12 (Automatic Renewal, Free Trials, and Cancellation), Article 13 (Withdrawal of Subscription and Refunds), Article 14 (Complimentary Entitlements and Promotions), Article 15 (Change and Discontinuation of the Paid Service); updated the service description in Article 4; added consumer and content dispute mediation routes to Article 17; published an English version; renumbered former Articles 11–13 as Articles 16–18 |
