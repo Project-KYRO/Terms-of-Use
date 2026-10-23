@@ -6,7 +6,7 @@
 
 ### Article 1 (Purpose)
 
-The purpose of these Terms of Use (the "Terms") is to define the rights, obligations, and responsibilities of end users ("Users") in connection with their use of KYRO, provided by Movement Lab Inc. (the "Company").
+The purpose of these Terms of Use (the "Terms") is to define the rights, obligations, and responsibilities of end users ("Users") in connection with their use of KYRO, provided by Movements Lab Co., Ltd. (the "Company").
 These Terms also govern the rights, obligations, and responsibilities relating to the Company's collection of Users' location information within the application.
 
 ### Article 2 (Effectiveness of These Terms and Their Amendments)
@@ -144,9 +144,9 @@ For disputes relating to payment for or refund of the paid service, Users may ap
 
 ### Article 18 (Company Information and Contact)
 
-- Company name: Movement Lab Inc. (주식회사 무브먼트랩)
+- Company name: Movements Lab Co., Ltd. (주식회사 무브먼트랩)
 - Representative: Ahn Jeongwoo
-- Address: 4F #406, 28 Hongik-ro 5an-gil, Mapo-gu, Seoul, Republic of Korea
+- Address: Rm J32, 6F, 5 Dangsan-ro 28-gil, Yeongdeungpo-gu, Seoul, Republic of Korea
 - Business registration number: 404-87-03684
 - Email: support@kyro.team
 
@@ -165,3 +165,4 @@ For disputes relating to payment for or refund of the paid service, Users may ap
 | v1.0 | — | 15 December 2025 | Initial version |
 | v1.1 | — | 17 May 2026 | Corrected company name (Movement Lab Inc.) and contact address (support@kyro.team); added business registration details |
 | v2.0 | 4 August 2026 | 14 August 2026 | Added the provisions governing the paid service (KYRO PRO): Article 11 (Paid Service), Article 12 (Automatic Renewal, Free Trials, and Cancellation), Article 13 (Withdrawal of Subscription and Refunds), Article 14 (Complimentary Entitlements and Promotions), Article 15 (Change and Discontinuation of the Paid Service); updated the service description in Article 4; added consumer and content dispute mediation routes to Article 17; published an English version; renumbered former Articles 11–13 as Articles 16–18 |
+| v2.0.1 | — | 22 October 2026 | Article 18: corrected the company address (business registration corrected on 22 September 2026) and the English company name (Movements Lab Co., Ltd.). No change to the terms themselves |
